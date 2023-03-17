@@ -1,0 +1,1 @@
+Torrent ⇌ Magnet
