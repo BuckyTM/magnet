@@ -1,4 +1,9 @@
 html,
+
+.navbar-inner {
+   background-color: #282a36;
+}
+
 body {
 	height: 100%;
 }
@@ -8,10 +13,6 @@ body {
 	height: auto !important;
 	background-color: #44475a;
 	height: 100%;
-}
-
-.navbar-inner {
-   background-color: #282a36;
 }
 
 #footer {
