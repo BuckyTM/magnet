@@ -2,7 +2,7 @@
 <html>
 <head>
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-	<title>BT种子转磁性链接 | 磁性链接转BT种子</title>
+	<title>Torrent to Magnet | Magnet to Torrent</title>
 	<meta name="description" content="Torrent to Magnet online converter">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	<script src="//cdn.jsdelivr.net/npm/jquery@2.2.4/dist/jquery.min.js"></script>
@@ -24,8 +24,8 @@
 			<div class="span8 offset2">
 				<div class="tabbable">
 					<ul class="nav nav-tabs">
-						<li class="active"><a href="#torrent2magnet" data-toggle="tab">种子转磁链</a></li>
-						<li><a href="#magnet2torrent" data-toggle="tab">磁链转种子</a></li>
+						<li class="active"><a href="#torrent2magnet" data-toggle="tab">Torrent to Magnet</a></li>
+						<li><a href="#magnet2torrent" data-toggle="tab">Magnet to Torrent</a></li>
 					</ul>
 					<div class="tab-content">
 						<div class="tab-pane active" id="torrent2magnet">
