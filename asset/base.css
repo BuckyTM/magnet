@@ -46,6 +46,6 @@ body {
 	margin: 8px 0;
 }
 
-#nav {
+.navbar-inner {
      background-color: #282a36;
 }
