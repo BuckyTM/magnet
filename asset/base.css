@@ -6,12 +6,13 @@ body {
 #body {
 	min-height: 100%;
 	height: auto !important;
+	background-color: #44475a;
 	height: 100%;
 }
 
 #footer {
 	height: 60px;
-	background-color: #101010;
+	background-color: #282a36;
 	margin-top: -60px;
 }
 
